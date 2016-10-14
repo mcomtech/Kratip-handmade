@@ -1,3 +1,3 @@
 <?php
-echo "kratip --><a href='source'>คลิก</a>"
+echo "kratip --><a href='Source'>คลิก</a>"
 ?>
